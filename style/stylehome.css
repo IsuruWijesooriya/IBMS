@@ -1,0 +1,17 @@
+
+.container{
+    display: flex;
+    align-items: top;
+    justify-content: top;
+    padding: 100px 0px 0px 300px;
+    min-height: 90vh;
+}
+.box{
+    background: #797676;
+    display: flex;
+    flex-direction: column;
+    padding: 310px 570px;
+    border-radius: 20px;
+    box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
+                0 32px 64px -48px rgba(0,0,0,0.5);
+}
